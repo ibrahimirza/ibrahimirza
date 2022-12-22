@@ -16,6 +16,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimirza&show_icons=true&locale=en&layout=compact" alt="ibrahimirza" /></p>
 
-https://streak-stats.demolab.com/?user=ibrahimirza
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimirza&show_icons=true&locale=en" alt="ibrahimirza" /></p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
