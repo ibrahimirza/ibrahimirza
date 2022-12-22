@@ -21,6 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimirza&show_icons=true&locale=en" alt="ibrahimirza" /></p>
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MY BLOG-POST-LIST:START -->
+<!-- MY BLOG-POST-LIST:END -->
 
