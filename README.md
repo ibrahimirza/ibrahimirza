@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohd Ibrahim</h1>
-<h3 align="center">Cloud Enthusiast</h3>
+<h1 align="center">Mohd Ibrahim Mirza</h1>
 
-- 🌱 I’m currently learning **Cloud and Devops**
+- 🌱 I’m currently learning **Devops.**
 
 - 📫 How to reach me **mohd.ibrahim.mirza@gmail.com**
 
@@ -17,10 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimirza&show_icons=true&locale=en&layout=compact" alt="ibrahimirza" /></p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimirza&show_icons=true&locale=en" alt="ibrahimirza" /></p>
-
-# Blog posts
-<!-- MY BLOG-POST-LIST:START -->
-<!-- MY BLOG-POST-LIST:END -->
 
